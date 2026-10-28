@@ -1,0 +1,5 @@
+/coverage.out
+/my-app
+/.idea/
+/.vscode/
+.env
