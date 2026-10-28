@@ -2,4 +2,6 @@
 /my-app
 /.idea/
 /.vscode/
+/.browser-profile/
+/.edge-profile/
 .env

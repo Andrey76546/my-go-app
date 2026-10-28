@@ -66,6 +66,7 @@ Hello from Go app!
 Workflow запускается для push и pull request в `main`/`master`. Job `docker-build` выполняется только для push в `main` и зависит от успешного завершения `test`.
 
 - [Все запуски CI](https://github.com/Andrey76546/my-go-app/actions/workflows/ci.yml)
+- [Контрольный успешный запуск CI](https://github.com/Andrey76546/my-go-app/actions/runs/40787889396)
 - Артефакт `coverage-report` доступен на странице успешного запуска workflow.
 
 ## Результаты и доказательства
